@@ -12,7 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayon117" alt="nayon117" /></a> </p>
 
-
 Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP/ JAVASCRIPT / REACT / NODE / MONGODB/ EXPRESS
 </div>
 
@@ -54,5 +53,5 @@ Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP/ JAVASCRIPT / REACT / NODE / MONGO
 ## Connect with me  
 <div align="center">
 <br/>
- **codewithnayon@gmail.com**
+codewithnayon@gmail.com
 </div>
