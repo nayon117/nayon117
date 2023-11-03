@@ -16,11 +16,11 @@ Skills: HTML / CSS / TAILWIND CSS / BOOTSTRAP/ JAVASCRIPT / REACT / NODE / MONGO
 </div>
 
 
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning NODE, EXPRESS, MONGODB
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayon117](https://github.com/nayon117)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,REACT**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,REACT,NODE, EXPRESS, MONGODB**
 
 - 📫 How to reach me **codewithnayon@gmail.com**
 
