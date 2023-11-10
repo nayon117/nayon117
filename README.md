@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm HASIBUL HASAN NAYON</h1>
-<h3 align="center"> Web Developer | Designer | Speed Learner</h3>
+<h3 align="center"> Passionate Web Developer | Code Enthusiast</h3>
  <img align="right" alt="coding"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" >
 
 <div align="center">
