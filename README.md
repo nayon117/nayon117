@@ -1,5 +1,7 @@
 
- <img align="right" alt="coding"  src="https://i.ibb.co/wcTHMT5/Blue-and-Purple-Cyberpunk-Linkedin-Banner-2-1.gif" >
+ 
+
+ ![cover photo!](./Blue%20and%20Purple%20Cyberpunk%20Linkedin%20Banner%20(2).gif "github cover photo")
 
 <div align="center">
 
