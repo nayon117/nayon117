@@ -22,6 +22,31 @@
 
  <br/>
 
+ 
+
+# 🚀Projects
+
+### 🛠️Automotive Gearup
+Welcome to our automotive website, where you can explore a wide range of car brands, view car details, update car listings, and shop for your dream car."
+
+ 
+[Live Site](https://automotive-gearup.web.app/)   &nbsp;   [client](https://github.com/nayon117/automotive-gearup-client)  &nbsp;   [server](https://github.com/nayon117/automotive-gearup-server)
+
+
+### 🍔Food Unity
+Food Unity is a platform aimed at connecting individuals or organizations with surplus food to those in need. The project focuses on reducing food waste and addressing hunger by providing a user-friendly interface to share and request food items.
+
+[Live Site](https://food-unity-client.web.app/)   &nbsp;   [client](https://github.com/nayon117/food-unity-client)  &nbsp;   [server](https://github.com/nayon117/food-unity-server)
+
+### 🌐Skillify
+Skillify is an advanced e-learning platform designed to offer a seamless learning experience. With a blend of user-centric features and a rich interface, it caters to both students and teachers, providing a conducive environment for learning and teaching.
+[Live Site](https://skillify-client.web.app/)   &nbsp;   [client](https://github.com/nayon117/skillify-client)  &nbsp;   [server](https://github.com/nayon117/skillify-server)
+
+ 
+
+ <br/>
+ 
+
 <h3 align="left">💻Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
