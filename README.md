@@ -1,4 +1,4 @@
-![cover photo](https://i.ibb.co/wJbNRwn/banner.png "github cover photo")
+![cover photo](https://i.ibb.co/wJbNRwn/banner.png)
 
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ## 🗺️current overview
 
-- 🌱 I’m currently learning NODE, EXPRESS, MONGODB
+- 🌱 I’m currently learning Next JS
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayon117](https://github.com/nayon117)
 
