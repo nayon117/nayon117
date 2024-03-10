@@ -1,4 +1,4 @@
-![cover photo](https://i.ibb.co/wJbNRwn/banner.png)
+![cover photo](./Blue%20and%20Purple%20Cyberpunk%20Linkedin%20Banner%20(2).gif "github cover photo")
 
 
 <div align="center">
