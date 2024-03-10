@@ -1,4 +1,5 @@
-![cover photo!]("https://i.ibb.co/wJbNRwn/banner.png" "github cover photo")
+![cover photo](https://i.ibb.co/wJbNRwn/banner.png "github cover photo")
+
 
 <div align="center">
 
