@@ -1,4 +1,4 @@
-![cover photo](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif "github cover photo")
+![cover photo](https://i.ibb.co/gJzhKGX/Linked-In-Banner.png "github cover photo")
 
 
 <div align="center">
@@ -13,11 +13,11 @@
 
 ## 🗺️current overview
 
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Next JS & Typescript
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayon117](https://github.com/nayon117)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Tailwind CSS,REACT,**
+- 💬 Ask me about **React, Javascript, Express, MongoDB,**
 
 - 📫 How to reach me **hasibul.nayon1@gmail.com**
 
@@ -26,6 +26,12 @@
  
 
 # 🚀Projects
+
+### 🛠️InnovatED
+InnovateED is an advanced e-learning platform designed to offer a seamless learning experience. With a blend of user-centric features and a rich interface, it caters to both students and teachers, providing a conducive environment for learning and teaching.
+
+ 
+[Live Site](https://innavated.web.app/)   &nbsp;   [client](https://github.com/ruksana03/EdTech-Client)  &nbsp;   [server](https://github.com/ruksana03/EdTech-Server)
 
 ### 🛠️Automotive Gearup
 Welcome to our automotive website, where you can explore a wide range of car brands, view car details, update car listings, and shop for your dream car."
@@ -43,6 +49,11 @@ Food Unity is a platform aimed at connecting individuals or organizations with s
 Skillify is an advanced e-learning platform designed to offer a seamless learning experience. With a blend of user-centric features and a rich interface, it caters to both students and teachers, providing a conducive environment for learning and teaching.
 
 [Live Site](https://skillify-client.web.app/)   &nbsp;   [client](https://github.com/nayon117/skillify-client)  &nbsp;   [server](https://github.com/nayon117/skillify-server)
+
+### 🌐Fitzen
+FitZen is a dynamic Yoga and Fitness Retreats event management website, offering users the ability to discover, book, and review wellness retreats, all with a best user experience and secure authentication."
+
+[Live Site](https://bespoke-tulumba-33a298.netlify.app/)   &nbsp;   [code](https://github.com/nayon117/react-fitzen)  
 
  
 
