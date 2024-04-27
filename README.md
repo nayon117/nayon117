@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayon117&label=Profile%20views&color=0e75b6&style=flat" alt="nayon117" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayon117" alt="nayon117" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayon117" alt="nayon117" /></a> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=nayon117&theme=onedark)](https://github.com/nayon117/github-profile-trophy)
 
 </div>
 
