@@ -34,22 +34,22 @@ InnovateED is an advanced e-learning platform designed to offer a seamless learn
  
 [Live Site](https://innavated.web.app/)   &nbsp;   [client](https://github.com/ruksana03/EdTech-Client)  &nbsp;   [server](https://github.com/ruksana03/EdTech-Server)
 
-### 🛠️Automotive Gearup
-Welcome to our automotive website, where you can explore a wide range of car brands, view car details, update car listings, and shop for your dream car."
+### 🛠️DevForge
+DevForge is an open-source, collaborative platform designed to empower developers of all levels by fostering knowledge sharing, problem-solving, and community engagement. Inspired by Stack Overflows success, DevForge aims to provide a comprehensive suite of features to streamline the developer experience
 
  
-[Live Site](https://automotive-gearup.web.app/)   &nbsp;   [client](https://github.com/nayon117/automotive-gearup-client)  &nbsp;   [server](https://github.com/nayon117/automotive-gearup-server)
+[Live Site](https://devforge117.vercel.app/)   &nbsp;   [code](https://github.com/nayon117/devforge) 
 
 
-### 🍔Food Unity
-Food Unity is a platform aimed at connecting individuals or organizations with surplus food to those in need. The project focuses on reducing food waste and addressing hunger by providing a user-friendly interface to share and request food items.
+### 🍔DressU
+DressU is an advanced e-commerce platform tailored for fashion enthusiasts. It provides a seamless shopping experience with a blend of user-centric features and a rich interface, catering to both fashion buyers and admins.
 
-[Live Site](https://food-unity-client.web.app/)   &nbsp;   [client](https://github.com/nayon117/food-unity-client)  &nbsp;   [server](https://github.com/nayon117/food-unity-server)
+[Live Site](https://dressu-inc.web.app/)   &nbsp;   [client](https://github.com/nayon117/dressu-client)  &nbsp;   [server](https://github.com/nayon117/dressu-server)
 
-### 🌐Skillify
-Skillify is an advanced e-learning platform designed to offer a seamless learning experience. With a blend of user-centric features and a rich interface, it caters to both students and teachers, providing a conducive environment for learning and teaching.
+### 🌐EliteX
+EliteX is an tailwind Css UI kit for developers and designers to create a responsive and user-friendly website. It is a collection of reusable components, styles, and utilities, designed to help you build professional-looking websites in no time.
 
-[Live Site](https://skillify-client.web.app/)   &nbsp;   [client](https://github.com/nayon117/skillify-client)  &nbsp;   [server](https://github.com/nayon117/skillify-server)
+[Live Site](https://elitex-ui.vercel.app/)   &nbsp;   [code](https://github.com/nayon117/EliteX-UI) 
 
 ### 🌐Fitzen
 FitZen is a dynamic Yoga and Fitness Retreats event management website, offering users the ability to discover, book, and review wellness retreats, all with a best user experience and secure authentication."
