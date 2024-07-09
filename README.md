@@ -28,30 +28,37 @@
 
 # 🚀Projects
 
-### 🛠️InnovatED
+### 🎓InnovatED
 InnovateED is an advanced e-learning platform designed to offer a seamless learning experience. With a blend of user-centric features and a rich interface, it caters to both students and teachers, providing a conducive environment for learning and teaching.
 
  
 [Live Site](https://innavated.web.app/)   &nbsp;   [client](https://github.com/ruksana03/EdTech-Client)  &nbsp;   [server](https://github.com/ruksana03/EdTech-Server)
 
-### 🛠️DevForge
+### 🌐DevForge
 DevForge is an open-source, collaborative platform designed to empower developers of all levels by fostering knowledge sharing, problem-solving, and community engagement. Inspired by Stack Overflows success, DevForge aims to provide a comprehensive suite of features to streamline the developer experience
 
  
 [Live Site](https://devforge117.vercel.app/)   &nbsp;   [code](https://github.com/nayon117/devforge) 
 
 
-### 🍔DressU
+### 💻GadgetBD
+GadgetBD is a modern e-commerce platform built using Next.js, TypeScript, and other cutting-edge technologies. The store offers a wide range of electronic gadgets, with features like product search, pagination, cart management, and a smooth checkout process.
+
+ 
+[Live Site](https://gadgetbd.vercel.app/)   &nbsp;   [Dashboard site](https://gadgetbd-admin.vercel.app/)  &nbsp;   [ecommerce](https://github.com/nayon117/gadgetbd)  &nbsp;   [DCode](https://github.com/nayon117/gadgetbd_admin) 
+
+
+### 👗DressU
 DressU is an advanced e-commerce platform tailored for fashion enthusiasts. It provides a seamless shopping experience with a blend of user-centric features and a rich interface, catering to both fashion buyers and admins.
 
 [Live Site](https://dressu-inc.web.app/)   &nbsp;   [client](https://github.com/nayon117/dressu-client)  &nbsp;   [server](https://github.com/nayon117/dressu-server)
 
-### 🌐EliteX
+### 🎭EliteX
 EliteX is an tailwind Css UI kit for developers and designers to create a responsive and user-friendly website. It is a collection of reusable components, styles, and utilities, designed to help you build professional-looking websites in no time.
 
 [Live Site](https://elitex-ui.vercel.app/)   &nbsp;   [code](https://github.com/nayon117/EliteX-UI) 
 
-### 🌐Fitzen
+### 🏋Fitzen
 FitZen is a dynamic Yoga and Fitness Retreats event management website, offering users the ability to discover, book, and review wellness retreats, all with a best user experience and secure authentication."
 
 [Live Site](https://bespoke-tulumba-33a298.netlify.app/)   &nbsp;   [code](https://github.com/nayon117/react-fitzen)  
