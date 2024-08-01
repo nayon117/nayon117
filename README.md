@@ -108,14 +108,14 @@ FitZen is a dynamic Yoga and Fitness Retreats event management website, offering
  
 ## 📊Github Stats
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayon117&theme=outrun" width="400" /></td>
       <td><img src="https://streak-stats.demolab.com?user=nayon117&theme=outrun" width="400" /></td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <br/>
 
