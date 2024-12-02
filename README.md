@@ -14,11 +14,11 @@
 
 ## 🗺️current overview
 
-- 🌱 I’m currently learning Next JS & Typescript
+- 🌱 I’m currently learning C++ & DSA
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayon117](https://github.com/nayon117)
 
-- 💬 Ask me about **React, Javascript, Express, MongoDB,**
+- 💬 Ask me about **React, Javascript, Express, MongoDB,Next.js**
 
 - 📫 How to reach me **hasibul.nayon1@gmail.com**
 
